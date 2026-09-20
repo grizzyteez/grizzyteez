@@ -1,16 +1,33 @@
-## Hi there 👋
+# Grizzyteez
 
-<!--
-**grizzyteez/grizzyteez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Next.js 15 project with TypeScript, configured with Vercel Web Analytics.
 
-Here are some ideas to get you started:
+## Getting Started
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First, install dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Features
+
+- Next.js 15 with App Router
+- TypeScript
+- Vercel Web Analytics
+- ESLint
+
+## Learn More
+
+To learn more about Next.js and Vercel Analytics:
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Vercel Analytics Documentation](https://vercel.com/docs/analytics)
